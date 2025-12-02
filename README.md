@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![License](https://img.shields.io/badge/License-GNU-green.svg?style=for-the-badge)
+![License](https://img.shields.io/badge/License-GPL-green.svg?style=for-the-badge)
 ![AoC](https://img.shields.io/badge/Advent_of_Code-2025-brightgreen?style=for-the-badge)
 
 ## 📊 Progress
@@ -11,8 +11,8 @@
 |                      Day                       | Part 1 | Part 2 |         Solution          |
 |:----------------------------------------------:|:------:|:------:|:-------------------------:|
 |  [Day 1](https://adventofcode.com/2025/day/1)  |   ⭐    |   ⭐    | [📓](./2025/DAY-01.ipynb) |
+|  [Day 2](https://adventofcode.com/2025/day/2)  |   ⭐    |   ⭐    | [📓](./2025/DAY-02.ipynb) |
 
-[//]: # (|  [Day 2]&#40;https://adventofcode.com/2025/day/2&#41;  |   ⭐    |   ⭐    | [📓]&#40;./2025/DAY-02.ipynb&#41; |)
 [//]: # (|  [Day 3]&#40;https://adventofcode.com/2025/day/3&#41;  |   ⭐    |   ⭐    | [📓]&#40;./2025/DAY-03.ipynb&#41; |)
 [//]: # (|  [Day 4]&#40;https://adventofcode.com/2025/day/4&#41;  |   ⭐️   |   ⭐️   | [📓]&#40;./2025/DAY-04.ipynb&#41; |)
 [//]: # (|  [Day 5]&#40;https://adventofcode.com/2025/day/5&#41;  |   ⭐️   |   ⭐️   | [📓]&#40;./2025/DAY-05.ipynb&#41; |)
@@ -49,4 +49,13 @@ This repository is all about:
 
 ---
 
-Happy coding! 🎄
+
+
+<div align="center">
+
+🎄 **Happy Coding** 🎄
+
+[2025](./2025)
+
+</div>
+
