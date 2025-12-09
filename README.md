@@ -15,8 +15,8 @@
 |  [Day 3](https://adventofcode.com/2025/day/3)  |   ⭐    |   ⭐    | [📓](./2025/DAY-03.ipynb) |
 |  [Day 4](https://adventofcode.com/2025/day/4)  |   ⭐️   |   ⭐️   | [📓](./2025/DAY-04.ipynb) |
 |  [Day 5](https://adventofcode.com/2025/day/5)  |   ⭐️   |   ⭐️   | [📓](./2025/DAY-05.ipynb) |
+|  [Day 6](https://adventofcode.com/2025/day/6)  |   ⭐️   |   ⭐️   | [📓](./2025/DAY-06.ipynb) |
 
-[//]: # (|  [Day 6]&#40;https://adventofcode.com/2025/day/6&#41;  |   ⭐️   |   ⭐️   | [📓]&#40;./2025/DAY-06.ipynb&#41; |)
 [//]: # (|  [Day 7]&#40;https://adventofcode.com/2025/day/7&#41;  |   ⭐️   |   ⭐️   | [📓]&#40;./2025/DAY-07.ipynb&#41; |)
 [//]: # (|  [Day 8]&#40;https://adventofcode.com/2025/day/8&#41;  |   ⭐️   |   ⭐️   | [📓]&#40;./2025/DAY-08.ipynb&#41; |)
 [//]: # (|  [Day 9]&#40;https://adventofcode.com/2025/day/9&#41;  |   ⭐️   |   ⭐️   | [📓]&#40;./2025/DAY-09.ipynb&#41; |)
@@ -24,7 +24,7 @@
 [//]: # (| [Day 11]&#40;https://adventofcode.com/2025/day/11&#41; |   ⭐️   |   ⭐️   | [📓]&#40;./2025/DAY-11.ipynb&#41; |)
 [//]: # (| [Day 12]&#40;https://adventofcode.com/2025/day/12&#41; |   ⭐️   |   ⭐️   | [📓]&#40;./2025/DAY-12.ipynb&#41; |)
 
-**Total Stars: 10/24** ⭐
+**Total Stars: 12/24** ⭐
 
 ## 🚀 Solutions
 
